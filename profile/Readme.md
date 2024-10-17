@@ -12,6 +12,6 @@
 
 ### What is Oddin Pay ?
 
-- OddinPay is an all-in-one payment platform based in the United States. We support over 120+ countries with a 5-minute smooth onboarding process. Additionally, we handle global tax compliance.
+- OddinPay is an all-in-one payment platform based in the United States. We support over 120 countries with a smooth 5-minute onboarding process. We also handle global tax compliance and manage subscriptions, memberships, and more.
 
 
