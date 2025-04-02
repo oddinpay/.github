@@ -1,4 +1,4 @@
-![](https://github.com/sachinsenal0x64/picx-images-hosting/raw/master/oddinpay.3uux19999v.webp)
+![](https://cdn.oddinpay.com/oddin-payments.webp)
 
 
 <br>
