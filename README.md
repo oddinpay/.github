@@ -1,4 +1,5 @@
 > [!TIP]
-> #### Start selling. Accept payments in minutes [oddinpay.com](https://oddinpay.com)
+> #### Go from 0 to $1
+> Accept payments in minutes [oddinpay.com](https://oddinpay.com)
 > 
 ![](https://cdn.oddinpay.com/oddinpay.webp)
